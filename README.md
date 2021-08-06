@@ -1,2 +1,2 @@
-# Email-Spam-Classifier-using-SVM
-Email Spam Classifier using SVM
+# SpamClassify
+Used Support Vector Machines to build a spam classifier.
